@@ -25,9 +25,40 @@ background-repeat: no-repeat; */
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
 }
-
+.card img{
+    width: 55%;
+}
+.card-body{
+    width: 55%;
+}
+.card-footers{
+    padding-bottom: 30px;
+}
 .see-more{
     color: orange;
     /* margin-bottom: 100px; */
     /* padding-bottom: 100px; */
 }
+
+.underline{
+    border-radius: 10px;
+    height: 10px;
+    width: 100px;
+    margin-left: 45.5%;
+}
+
+.p-2{
+    margin-top: 50px;
+    margin-right: 180px;
+    /* padding: ; */
+    box-shadow: 5px 5px 10px lightgray;
+    border: 10px solid white;
+}
+
+.bag-img{
+    margin-left: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    border: 20px solid white;
+
+}
+
