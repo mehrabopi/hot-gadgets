@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.new-bg{
+background-image: url("bg-1.png");
+background-repeat: no-repeat;
+/* background-image: url("bg-2.png");
+background-repeat: no-repeat; */
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #272727 0%, #0b0005 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.see-more{
+    color: orange;
+    /* margin-bottom: 100px; */
+    /* padding-bottom: 100px; */
+}
